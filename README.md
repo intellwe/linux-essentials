@@ -50,6 +50,18 @@ Complete file permissions and ownership guide covering:
 - Security best practices and troubleshooting checklist
 - Advanced topics: ACLs, SELinux contexts
 
+### [Package-Management/](./Package-Management/)
+
+Comprehensive package management guide covering all major Linux distributions:
+
+- APT (Ubuntu/Debian): installation, updates, broken packages
+- YUM/DNF (RedHat/Fedora): repository management, dependencies
+- Pacman (Arch Linux): AUR integration, conflict resolution
+- Snap & Flatpak: universal package formats
+- Dependency hell solutions and security best practices
+- Emergency fixes and troubleshooting checklist
+- Custom repository creation and package building
+
 ## Planned Topics
 
 - **Package Management**: APT, YUM, Pacman, and other package managers
