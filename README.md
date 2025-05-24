@@ -38,6 +38,18 @@ Comprehensive SSH configuration and troubleshooting guide covering:
 - Advanced features: tunneling, jump hosts, X11 forwarding
 - Step-by-step troubleshooting checklist
 
+### [File-Permissions/](./File-Permissions/)
+
+Complete file permissions and ownership guide covering:
+
+- Understanding Linux permission system (numeric and symbolic)
+- Essential commands: chmod, chown, chgrp
+- Common "Permission denied" error solutions
+- Special permissions: SUID, SGID, sticky bit
+- Real-world examples: web servers, databases, containers
+- Security best practices and troubleshooting checklist
+- Advanced topics: ACLs, SELinux contexts
+
 ## Planned Topics
 
 - **Package Management**: APT, YUM, Pacman, and other package managers
