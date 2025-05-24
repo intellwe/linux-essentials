@@ -26,6 +26,18 @@ Complete guide for working with AppImage applications, including:
 - Desktop integration and command-line launchers
 - Best practices for AppImage management
 
+### [SSH/](./SSH/)
+
+Comprehensive SSH configuration and troubleshooting guide covering:
+
+- SSH key authentication setup (RSA, Ed25519)
+- SSH configuration file management
+- Common connection errors and solutions
+- Security best practices and hardening
+- SSH agent and multiple key management
+- Advanced features: tunneling, jump hosts, X11 forwarding
+- Step-by-step troubleshooting checklist
+
 ## Planned Topics
 
 - **Package Management**: APT, YUM, Pacman, and other package managers
