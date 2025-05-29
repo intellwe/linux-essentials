@@ -62,6 +62,19 @@ Comprehensive package management guide covering all major Linux distributions:
 - Emergency fixes and troubleshooting checklist
 - Custom repository creation and package building
 
+### [System-Services/](./System-Services/)
+
+Complete systemd and service management guide covering:
+
+- systemctl commands: start, stop, enable, disable services
+- Service troubleshooting: failed services, restart loops, port conflicts
+- Creating custom services and systemd unit files
+- Service dependencies and targets configuration
+- journalctl log analysis and monitoring techniques
+- systemd timers as cron replacement
+- Boot process analysis and emergency recovery
+- Advanced topics: socket activation, user services
+
 ## Planned Topics
 
 - **Package Management**: APT, YUM, Pacman, and other package managers
